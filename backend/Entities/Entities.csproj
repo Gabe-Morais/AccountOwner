@@ -1,4 +1,4 @@
-dotnet add package Pomelo.EntityFrameworkCore.MySql --version 6.0.2<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
